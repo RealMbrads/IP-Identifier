@@ -11,4 +11,4 @@
 ---
 
 Thanks for checking out the project!  
-Happy identifying! 🔍✨ :D
+Happy identifying! :D
