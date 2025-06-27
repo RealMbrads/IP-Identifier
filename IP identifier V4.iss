@@ -12,7 +12,7 @@ DisableProgramGroupPage=no
 AllowRootDirectory=yes
 
 [Tasks]
-Name: desktopicon; Description: "Create a &desktop icon"; GroupDescription: "Additional icons:"; Flags: unchecked
+Name: desktopicon; Description: "Create a &desktop icon"; GroupDescription: "Additional icons:"; Flags: checked
 
 [Files]
 Source: "C:\Users\###\###\IP Identifier V4\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
