@@ -1,12 +1,12 @@
 [Setup]
 AppName=IP Identifier
-AppVersion=4.1
+AppVersion=4.0
 DefaultDirName={pf}\IP Identifier
 DefaultGroupName=IP Identifier
 OutputBaseFilename=IP Identifier Installer
 Compression=lzma
 SolidCompression=yes
-SetupIconFile=C:\Users\mbrad\Desktop\IP Identifier V4\icon.ico
+SetupIconFile=C:\Users\###\###\IP Identifier V4\icon.ico
 AllowNoIcons=no
 DisableProgramGroupPage=no
 AllowRootDirectory=yes
@@ -15,7 +15,7 @@ AllowRootDirectory=yes
 Name: desktopicon; Description: "Create a &desktop icon"; GroupDescription: "Additional icons:"; Flags: unchecked
 
 [Files]
-Source: "C:\Users\mbrad\Desktop\IP Identifier V4\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "C:\Users\###\###\IP Identifier V4\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
 
 [Icons]
 Name: "{group}\IP Identifier"; Filename: "{app}\IP Identifier V4.exe"; IconFilename: "{app}\icon.ico"
